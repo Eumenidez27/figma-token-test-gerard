@@ -1,0 +1,100 @@
+{
+  "Typography": {
+    "Font Family": {
+      "Default": {
+        "primary": {
+          "type": "string",
+          "value": "Noto Sans",
+          "description": "",
+          "extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "FONT_FAMILY"
+              ],
+              "codeSyntax": {}
+            }
+          }
+        }
+      },
+      "Numeric": {
+        "primary": {
+          "type": "string",
+          "value": "Volvo Novum",
+          "description": "",
+          "extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "FONT_FAMILY"
+              ],
+              "codeSyntax": {}
+            }
+          }
+        }
+      }
+    },
+    "Font Weight": {
+      "Default": {
+        "normal": {
+          "type": "string",
+          "value": "Light",
+          "description": "",
+          "extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "FONT_STYLE"
+              ],
+              "codeSyntax": {}
+            }
+          }
+        },
+        "emphasised": {
+          "type": "string",
+          "value": "Medium",
+          "description": "",
+          "extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "FONT_STYLE"
+              ],
+              "codeSyntax": {}
+            }
+          }
+        }
+      },
+      "Numeric": {
+        "normal": {
+          "type": "string",
+          "value": "SemiLight",
+          "description": "",
+          "extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "FONT_STYLE"
+              ],
+              "codeSyntax": {}
+            }
+          }
+        },
+        "emphasised": {
+          "type": "string",
+          "value": "Medium",
+          "description": "",
+          "extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "FONT_STYLE"
+              ],
+              "codeSyntax": {}
+            }
+          }
+        }
+      }
+    }
+  }
+}
